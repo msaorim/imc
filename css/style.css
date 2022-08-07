@@ -1,0 +1,55 @@
+body {
+  padding: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #aaa;
+  background: url("https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+header {
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+#entrada {
+  background: yellowgreen;
+  width: 100%;
+  height: 155px;
+  border-radius: 20px;
+  opacity: .8;
+  margin-bottom: 0;
+}
+
+#resultado {
+  margin-top: 0;
+  background: rgb(22, 98, 11);
+  width: 100%;
+  height: 89px;
+  border-radius: 10px;
+  opacity: .8;
+  color: aliceblue;
+}
+
+#paragraph-result {
+  margin-top: 30px;
+}
+
+input {
+  margin-top: 2px;
+  width: 50px;
+}
+h2 {
+  margin-top: 0;
+  font-size: 14px;
+  font-style: italic;
+}
+
+#fonte {
+  font-size: 10px;
+}
